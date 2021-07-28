@@ -1,4 +1,4 @@
-import { useDispatch } from 'redux';
+import { useDispatch } from 'react-redux';
 import { useIsMounted } from 'react-tidy';
 
 function useDispatchMultiple() {
