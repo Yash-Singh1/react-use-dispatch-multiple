@@ -1,0 +1,17 @@
+{
+  "name": "react-use-dispatch-multiple",
+  "version": "1.0.0",
+  "description": "Dispatch multiple actions at once in Redux",
+  "main": "index.js",
+  "keywords": [
+    "redux",
+    "react",
+    "hook"
+  ],
+  "author": "Yash Singh",
+  "license": "MIT",
+  "dependencies": {
+    "react-tidy": "^1.3.1",
+    "redux": "^4.1.0"
+  }
+}
